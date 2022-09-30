@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-heroku/static/css/main.0771d69e.css",
+    "main.js": "/frontend-heroku/static/js/main.704d933d.js",
+    "static/media/team1.png": "/frontend-heroku/static/media/team1.e6faeb0a537ebb93596a.png",
+    "static/media/shopping.jpg": "/frontend-heroku/static/media/shopping.563d61eb78c90ec2957f.jpg",
+    "index.html": "/frontend-heroku/index.html",
+    "main.0771d69e.css.map": "/frontend-heroku/static/css/main.0771d69e.css.map",
+    "main.704d933d.js.map": "/frontend-heroku/static/js/main.704d933d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0771d69e.css",
+    "static/js/main.704d933d.js"
+  ]
+}
